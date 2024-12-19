@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Pedro Vitor Martins Caiafa Andrade, sou uma pessoa que sempre busca um conhecimento constante sempre tentando me aperfeiçoar, sou de Belo Horizonte, Minas Gerais, Brasil.</p>
+<p align="left">Meu nome é Pedro Vitor Martins Caiafa Andrade. Sou uma pessoa dedicada à busca constante por conhecimento e aprimoramento pessoal. Moro em Belo Horizonte, Minas Gerais, Brasil, estou sempre em busca de novos desafios e oportunidades para crescer e evoluir.</p>
 
 ###
 
