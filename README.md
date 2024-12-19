@@ -12,9 +12,6 @@
 
 <p align="left">✨ Estou codando desde início de 2024.<br>📚 Estou estudando Engenharia de Computação na PUC Minas.</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/Pedro0826/Pedro0826/output/snake.svg" alt="Snake animation" />
 
 ###
 
