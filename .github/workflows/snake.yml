@@ -1,4 +1,4 @@
-name: GitHub Snake Game
+ame: GitHub Snake Game
 
 
 on:
@@ -52,7 +52,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ Pedro0826 }}
+          github_user_name: ${{ github.repository_owner }}
 
 
           # Define the output files and their configurations
