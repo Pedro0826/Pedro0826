@@ -2,21 +2,21 @@
 
 ###
 
-<p align="left">Meu nome é Pedro Vitor Martins Caiafa Andrade. Sou uma pessoa dedicada à busca constante por conhecimento e aprimoramento pessoal. Moro em Belo Horizonte, Minas Gerais, Brasil, estou sempre em busca de novos desafios e oportunidades para crescer e evoluir.</p>
+<h4 align="center">Meu nome é Pedro Vitor Martins Caiafa Andrade. Sou uma pessoa dedicada à busca constante por conhecimento e aprimoramento pessoal. <br>Moro em Belo Horizonte, Minas Gerais, Brasil, estou sempre em busca de novos desafios e oportunidades para crescer e evoluir.</h4>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">Sobre Eu!!!</h3>
+<h2 align="center">Sobre Eu!!!</h2>
 
 ###
 
-<p align="left">✨ Estou codando desde início de 2024.<br>📚 Estou estudando Engenharia de Computação na PUC Minas.</p>
+<h4 align="center">✨ Estou codando desde início de 2024.<br>📚 Estou estudando Engenharia de Computação na PUC Minas.</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pedro-vitor-caiafa-6195722b2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -27,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
