@@ -49,6 +49,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pedro0826/pedro0826/output/snake.svg" alt="Snake animation" />
+<br>
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pedro0826/pedro0826/output/snake.svg" alt="Snake animation" />
+</div>
